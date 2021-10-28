@@ -1,19 +1,51 @@
-# This is a sample Python script.
+import  math
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-def print_hi2(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# def absolute_value(x):
+#   if x < 0:
+#       return -x
+#   else:
+#             return x
+#
+# print(absolute_value(5))
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+
+
+
+# def area(radius):
+#     a = math.pi * radius**2
+#     return a
+#
+# print(area(2))
+
+
+
+# def fancy_hello_world():
+#     fancy_string = """
+# ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
+# ───█▒▒░░░░░░░░░▒▒█───
+# ────█░░█░░░░░█░░█────
+# ─▄▄──█░░░▀█▀░░░█──▄▄─
+# █░░█─▀▄░░░░░░░▄▀─█░░█
+# """
+#     print(fancy_string)
+#
+# fancy_hello_world()
+#
+#
+#
+# def fancy_hello_world():
+#     fancy_string = """
+# ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
+# ───█▒▒░░░░░░░░░▒▒█───
+# ────█░░█░░░░░█░░█────
+# ─▄▄──█░░░▀█▀░░░█──▄▄─
+# █░░█─▀▄░░░░░░░▄▀─█░░█
+# """
+#     return fancy_string
+#
+#
+# print(fancy_hello_world())
